@@ -19,8 +19,11 @@ Licencia CC BY
 Fecha : 2021
 
 Medios (donde se tiene presencia):
-•	  (github url)
+
+•	Github
+
 •	Twitter
+
 •	Instagram
  
 
