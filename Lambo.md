@@ -6,15 +6,15 @@ Titulo : Lambo
 
 Autor(es) Daniel, Elena, Gu y Vladimir
 
-Resumen : Música como estilo de vida
+Resumen : Comunidad dedicada a personas apasionadas por la música. Puedes descubrir música nueva que se adecue a tu estado de ánimo.
 
 logotipo : 
 
 Slogan (frase motivadora/inspiradora): All we need is time
 
-Hashtag #MakeitLambo
+Hashtag #MakeitLambo #Lambo #AWNIT #AllWeneedIsTime
 
-Licencia CC BY
+Licencia: CC BY
 
 Fecha : 2021
 
@@ -26,6 +26,12 @@ Medios (donde se tiene presencia):
 
 •	Instagram
  
+
+Metodología Metodología de desarrollo: Ofrecemos una aplicación que recomienda diariamente playlists mediante inteligencia artificial, según el estado de ánimo.
+
+..............................................................................................................................................................................
+
+Etapa 1: Ideación de proyecto
 
 
 
