@@ -47,7 +47,7 @@ Personas/Usuarios: Hay multitud de gustos relativos a la música. Hay personas a
 
 Etapa 2: Prototipar / productos 
 
-Prototipo: Vamos a desarrollar el prototipo de la aplicación móvil mediante la herramienta wix. https://vbabushkin1871.wixsite.com/my-site
+Prototipo: Vamos a desarrollar el prototipo de la aplicación móvil mediante la herramienta wix. (pegar captura)https://vbabushkin1871.wixsite.com/my-site
 
 Herramienta utilizada: Wix
 
@@ -83,18 +83,17 @@ Medidores e indicadores de éxito
 Conclusiones:
 
 Nuestro proyecto nace a raiz de el modelo Design Thinking, comenzando con una lluvia de ideas mediante post-it. A medida que iba avanzando el proyecto, las ideas iban surgiendo gracias a las actividades que hemos llevado a cabo:
-
-    1. Mapa de Empatía. Representa lo que la gente piensa, siente, ve, dice, hace y escucha. Por nuestra parte, comentamos que "La vida es complicada y afrontar los problemas          diarios es aún peor" y "La vida es un regalo maravilloso que hay que aprovechar".
-    2. ODS, Objetivos de Desarrollo Sostenible. Tuvimos que elegir los ODS que más se correspondían a la idea que teníamos en mente a desarrollar, por lo cual elegimos: SDG-3          Good Health and Wellbeing, SDG-5 Gender Equality y SDG-10 Reduced inequalities.
-    3. Scope Canvas. Se desarrolla en todo el documento.
-    4. DAFO.
-    5. 6 Sombreros. Esta actividad nos ayudó a saber diferenciar los diferentes usuarios existentes en el mercado, así los 6 sombreros que nosotros hemos podido vislumbrar son:
-    - Blanco. Las personas escuchan normalmente musica para evadirse mientras realizan alguna actividad.
-    - Rojo. Nuestra comunidad abre su corazón al escuchar la música y expresa sus sentimientos.
-    - Negro. El principal problema que detectamos es la posibilidad de mermar la autoestima de la comunidad mediante canciones tristes o poco alegres cuando no es ese el               objetivo de la escucha en ese momento. Tambien otro ejemplo válido sería la escucha de música agresiva, que puede hacer sentir al oyente de la misma manera.
-    - Amarillo. Hay mucha gente que pese a haber tenido un mal día, al escuchar música, su caracter pasa a ser positivo de inmediato.
-    - Verde. Escuchar música alegre y no violenta, que no alteren el autoestima o sentimietos de la persona que lo escucha.
-    - Azul. Hay muchos tipos de música y suele ir asociada a una tribu urbana. Ej: Kpoper que consigue que todo su grupo vista y escuche lo mismo que él.
+1. Mapa de Empatía. Representa lo que la gente piensa, siente, ve, dice, hace y escucha. Por nuestra parte, comentamos que "La vida es complicada y afrontar los problemas        diarios es aún peor" y "La vida es un regalo maravilloso que hay que aprovechar".
+2. ODS, Objetivos de Desarrollo Sostenible. Tuvimos que elegir los ODS que más se correspondían a la idea que teníamos en mente a desarrollar, por lo cual elegimos: SDG-3        Good Health and Wellbeing, SDG-5 Gender Equality y SDG-10 Reduced inequalities.
+3. Scope Canvas. Se desarrolla en todo el documento.
+4. DAFO.
+5. 6 Sombreros. Esta actividad nos ayudó a saber diferenciar los diferentes usuarios existentes en el mercado, así los 6 sombreros que nosotros hemos podido vislumbrar son:
+- Blanco. Las personas escuchan normalmente musica para evadirse mientras realizan alguna actividad.
+- Rojo. Nuestra comunidad abre su corazón al escuchar la música y expresa sus sentimientos.
+- Negro. El principal problema que detectamos es la posibilidad de mermar la autoestima de la comunidad mediante canciones tristes o poco alegres cuando no es ese el               objetivo de la escucha en ese momento. Tambien otro ejemplo válido sería la escucha de música agresiva, que puede hacer sentir al oyente de la misma manera.
+- Amarillo. Hay mucha gente que pese a haber tenido un mal día, al escuchar música, su caracter pasa a ser positivo de inmediato.
+- Verde. Escuchar música alegre y no violenta, que no alteren el autoestima o sentimietos de la persona que lo escucha.
+- Azul. Hay muchos tipos de música y suele ir asociada a una tribu urbana. Ej: Kpoper que consigue que todo su grupo vista y escuche lo mismo que él.
 
 Gracias a estas actividades llevadas a cabo en clase, hemos podido desarrollar nuestra comunidad de forma efectiva. Las ideas han ido surgiendo poco a poco a medida que le hemos dado forma al mismo. Para comunicarnos hemos hecho varias reuniones conjuntas en Google Meet a lo que la respuesta del equipo ha sido satisfacctoria, ya que hemos encontrado el equilibrio de trabajo. El ambiente del grupo se ha considerado favorable, y hemos podido trabajar de manera óptima para conseguir los resultados que hemos obtenido.
 
