@@ -47,7 +47,7 @@ Personas/Usuarios: Hay multitud de gustos relativos a la música. Hay personas a
 
 Etapa 2: Prototipar / productos 
 
-Prototipo: Vamos a desarrollar el prototipo de la aplicación móvil mediante la herramienta wix. (pegar captura)https://vbabushkin1871.wixsite.com/my-site
+Prototipo: Vamos a desarrollar el prototipo de la aplicación móvil mediante la herramienta wix. https://vbabushkin1871.wixsite.com/my-site
 
 Herramienta utilizada: Wix
 
