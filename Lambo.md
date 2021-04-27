@@ -4,17 +4,17 @@ Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión
 
 Titulo : Lambo
 
-Autor(es) : Ávila Notario, Elena ; Babushkin, Vladimir ; Gu, Yujie ; Martínez Rivas Daniel.
+Autor(es) : Ávila Notario, Elena ; Babushkin, Vladimir ; Gu, Yujie ; Martínez Rivas, Daniel.
 
 Resumen : Comunidad dedicada a personas apasionadas por la música. Puedes descubrir música nueva que se adecue a tu estado de ánimo.
 
-logotipo : (https://user-images.githubusercontent.com/81180723/116111824-4b733700-a6b7-11eb-8d54-187765978fc9.jpg)
+Logotipo : (https://user-images.githubusercontent.com/81180723/116111824-4b733700-a6b7-11eb-8d54-187765978fc9.jpg)
 
 Slogan (frase motivadora/inspiradora): All we need is time
 
-Hashtag #MakeitLambo #Lambo #AWNIT #AllWeneedIsTime
+Hashtag #MakeitLambo #Lambo #AWNIT #AllWeNeedIsTime
 
-Licencia: CC BY
+Licencia : CC BY
 
 Fecha : 2021
 
@@ -82,13 +82,28 @@ Medidores e indicadores de éxito
 
 Conclusiones:
 
+Nuestro proyecto nace a raiz de el modelo Design Thinking, comenzando con una lluvia de ideas mediante post-it. A medida que iba avanzando el proyecto, las ideas iban surgiendo gracias a las actividades que hemos llevado a cabo:
+1. Mapa de Empatía. Representa lo que la gente piensa, siente, ve, dice, hace y escucha. Por nuestra parte, comentamos que "La vida es complicada y afrontar los problemas        diarios es aún peor" y "La vida es un regalo maravilloso que hay que aprovechar".
+2. ODS, Objetivos de Desarrollo Sostenible. Tuvimos que elegir los ODS que más se correspondían a la idea que teníamos en mente a desarrollar, por lo cual elegimos: SDG-3        Good Health and Wellbeing, SDG-5 Gender Equality y SDG-10 Reduced inequalities.
+3. Scope Canvas. Se desarrolla en todo el documento.
+4. DAFO.
+5. 6 Sombreros. Esta actividad nos ayudó a saber diferenciar los diferentes usuarios existentes en el mercado, así los 6 sombreros que nosotros hemos podido vislumbrar son:
+- Blanco. Las personas escuchan normalmente musica para evadirse mientras realizan alguna actividad.
+- Rojo. Nuestra comunidad abre su corazón al escuchar la música y expresa sus sentimientos.
+- Negro. El principal problema que detectamos es la posibilidad de mermar la autoestima de la comunidad mediante canciones tristes o poco alegres cuando no es ese el               objetivo de la escucha en ese momento. Tambien otro ejemplo válido sería la escucha de música agresiva, que puede hacer sentir al oyente de la misma manera.
+- Amarillo. Hay mucha gente que pese a haber tenido un mal día, al escuchar música, su caracter pasa a ser positivo de inmediato.
+- Verde. Escuchar música alegre y no violenta, que no alteren el autoestima o sentimietos de la persona que lo escucha.
+- Azul. Hay muchos tipos de música y suele ir asociada a una tribu urbana. Ej: Kpoper que consigue que todo su grupo vista y escuche lo mismo que él.
+
+Gracias a estas actividades llevadas a cabo en clase, hemos podido desarrollar nuestra comunidad de forma efectiva. Las ideas han ido surgiendo poco a poco a medida que le hemos dado forma al mismo. Para comunicarnos hemos hecho varias reuniones conjuntas en Google Meet a lo que la respuesta del equipo ha sido satisfacctoria, ya que hemos encontrado el equilibrio de trabajo. El ambiente del grupo se ha considerado favorable, y hemos podido trabajar de manera óptima para conseguir los resultados que hemos obtenido.
+
+Tras el desarrollo del proyecto, hemos podido observar varios problemas a lo largo del camino, como son:
+
+ * WIX no permite crear aplicaciones, solo nos ha podido prestar el servicio visual para representar lo que queríamos desarrollar.
+ * En cuanto a la ejecución de la aplicación, el equipo no tiene conocimientos específicos de inteligencia artificial, por lo que habría que subcontratar a alguien que se          encargara de todo el proceso técnico.
+ * Desconocimiento de GitHub, así como su uso y aplicación corporativa.
 
 
+Visión de futuro: 
 
-
-de cara al futuro.............
-Medir los artistas más escuchados y tener con ellos una relación estrecha, de cara a dar imagen de marca, anuncios y soporte.
-Contactar con 20 cantantes famosos de los tops españoles más importantes en el primer mes. 
-
-Problemas encontrados:
-
+Una vez conseguidos nuestros objetivos previos, y con la intención de mejorar y aumentar nuestra comunidad, hemos planteado la posibilidad de contactar con 20 cantantes relevantes en la industria musical nacional actual, para mantener con los mismos una relación estrecha de cara a dar imagen de marca, anuncios y soporte, para así crecer y darle un impulso positivo.
