@@ -57,34 +57,28 @@ Publicidad: Redes sociales, Google Ads, Facebook Ads.
 
 ..............................................................................................................................................................................
 
-Etapa 3: Técnicas de evaluación utilizadas (Estrategia que plantearías para evaluar tu propuesta, medidores e indicadores de éxito, elige / propone)
+Etapa 3: Forma de evaluar el desempeño del producto una vez puesto en marcha.
+
+A continuación presentamos las herramientas de evaluación que llevaremos a cabo de forma mensual, en las que nos vamos a basar para determinar el rendimiento de la aplicación. 
+Así los resultados de las herramientas que presentamos a continuación, deben ser próximos o iguales a los medidores e indicadores de éxito que veremos más abajo. Gracias a estos indicadores podremos determinar si se cumplen los objetivos determinados. 
 
 
-Forma de evaluar el desempeño del producto, una vez puesto en marcha:
+Herramientas de evaluación del rendimiento de la aplicación:
 
-
-Evaluación del rendimiento de la aplicación
-
-- Encuestas simples de valoración mensuales al usuario, sobre el rendimiento de la app. Los usuarios han de poner en la encuesta si hemos acertado con la playlist, para así     afinar el gusto personal del usuario cada vez más.
-- Número de oyentes mensuales.
-- Número de usuarios totales.
-- Número de descargas.
-- Medir los artistas más escuchados y tener con ellos una relación estrecha, de cara a dar imagen de marca, anuncios y soporte.
+1 Encuestas simples de valoración mensuales al usuario sobre el rendimiento de la app. Los usuarios han de poner en la encuesta si hemos acertado con la playlist, para así afinar el gusto personal del usuario cada vez más.
+2 Número de reproducciones mensuales.
+3 Número de usuarios totales.
+4 Número de descargas de la app.
+5 Tasa de rebote, tiempo que el usuario permanece usando la app.
 
 
 Medidores e indicadores de éxito
 
-1 Conseguir 20.000 oyentes al mes.
-
-
-
-
-
-
-
-
-
-
+1 El resultado de las encuestas tenga un 80% de acierto.
+2 Conseguir 200.000 reproducciones en el primer mes.
+3 Conseguir 10.000 usuarios en el primer mes.
+4 Conseguir 20.000 descargas en el primer mes.
+5 Mantener la tasa de rebote en un 60%
 
 Conclusiones:
 
@@ -92,6 +86,9 @@ Conclusiones:
 
 
 
+de cara al futuro.............
+Medir los artistas más escuchados y tener con ellos una relación estrecha, de cara a dar imagen de marca, anuncios y soporte.
+Contactar con 20 cantantes famosos de los tops españoles más importantes en el primer mes. 
 
-
+Problemas encontrados:
 
