@@ -10,6 +10,10 @@ Resumen : Comunidad dedicada a personas apasionadas por la música. Puedes descu
 
 Logotipo : (https://user-images.githubusercontent.com/81180723/116111824-4b733700-a6b7-11eb-8d54-187765978fc9.jpg)
 
+Imagen de cabecera para usar Twitter : ![Conectate](https://user-images.githubusercontent.com/81180550/116287543-d5db9980-a790-11eb-8850-5353362c2c20.jpg)
+
+Prototipo de aplicación (abrir con el móvil) : https://vbabushkin1871.wixsite.com/my-site 
+
 Slogan (frase motivadora/inspiradora): All we need is time
 
 Hashtag #MakeitLambo #Lambo #AWNIT #AllWeNeedIsTime
