@@ -8,9 +8,7 @@ Autor(es) : Ávila Notario, Elena ; Babushkin, Vladimir ; Gu, Yujie ; Martínez 
 
 Resumen : Comunidad dedicada a personas apasionadas por la música. Puedes descubrir música nueva que se adecue a tu estado de ánimo.
 
-Presentación :
-
-
+Presentación :https://drive.google.com/file/d/1r9UhODiwImOQ4VsOCGz2_0DsSLj6MEqI/view?usp=sharing
 
 Logotipo : (https://user-images.githubusercontent.com/81180723/116111824-4b733700-a6b7-11eb-8d54-187765978fc9.jpg)
 
