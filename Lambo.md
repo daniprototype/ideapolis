@@ -18,7 +18,7 @@ Slogan (frase motivadora/inspiradora): All we need is time
 
 Hashtag #MakeitLambo #Lambo #AWNIT #AllWeNeedIsTime
 
-Licencia : CC BY
+Licencia : CC BY (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
 
 Fecha : 2021
 
